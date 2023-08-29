@@ -1,0 +1,11 @@
+*.pth
+*.sh
+*.csv
+*.ipynb
+__pycache__/
+.ipynb_checkpoint/
+models/
+runs/
+venv/
+results/
+data/
